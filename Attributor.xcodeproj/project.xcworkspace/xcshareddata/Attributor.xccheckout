@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C582F10-F904-43D2-BD23-6591A1E39EFD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Attributor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8555462DEFFE662E2E93EE12413CE20C24CC9009</key>
+		<string>https://github.com/DrakeW/iOS-Practice-Attributor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Attributor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8555462DEFFE662E2E93EE12413CE20C24CC9009</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DrakeW/iOS-Practice-Attributor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8555462DEFFE662E2E93EE12413CE20C24CC9009</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8555462DEFFE662E2E93EE12413CE20C24CC9009</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Attributor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
